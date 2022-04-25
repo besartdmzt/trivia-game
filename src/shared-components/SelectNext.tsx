@@ -46,6 +46,7 @@ const useStyles = makeStyles({
     paddingLeft: "1rem",
     paddingRight: "1rem",
     boxShadow: "0px 10px 4px #CB5A85",
+    alignItems: "center",
   },
 });
 

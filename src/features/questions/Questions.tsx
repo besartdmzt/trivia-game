@@ -53,7 +53,7 @@ const Questions = () => {
 
   return (
     <Box
-      my={0.625}
+      py={2}
       mx={0.625}
       display="flex"
       justifyContent="center"
