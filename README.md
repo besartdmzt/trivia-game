@@ -3,9 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Short Description
 
 A simple trivia game which can be played in easy, medium and hard modes. You will keep getting new questions until you answer one wrongly.
-After wrong answer you can see your score and start a new game
+After wrong answer you can see your score and start a new game.
 
-A live link to view the project: [https://illustrious-khapse-b005c5.netlify.app/]https://illustrious-khapse-b005c5.netlify.app/
+A live link to view the project: https://illustrious-khapse-b005c5.netlify.app/
 
 ## Available Scripts
 
