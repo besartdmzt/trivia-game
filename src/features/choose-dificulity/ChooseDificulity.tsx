@@ -2,7 +2,7 @@ import { Box, Grid, Typography } from "@mui/material";
 import { useTranslation } from "react-i18next";
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import { clearScoreAndQuestions } from "src/features/slices/gameSlice";
+import { clearScoreAndQuestions } from "src/app/gameSlice";
 import { useDispatch } from "react-redux";
 import SelectOption from "src/shared-components/SelectOption";
 import SelectNext from "src/shared-components/SelectNext";
