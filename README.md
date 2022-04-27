@@ -7,15 +7,6 @@ After wrong answer you can see your score and start a new game
 
 ## Available Scripts
 
-### To run the project locally in production mode:
-
-### `npm run build`
-
-### `serve -s build`
-
-Runs the app in the production mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ### To run the project locally in development mode:
 
 ### `npm install`
@@ -30,3 +21,12 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.
+
+### To run the project locally in production mode:
+
+### `npm run build`
+
+### `serve -s build`
+
+Runs the app in the production mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
