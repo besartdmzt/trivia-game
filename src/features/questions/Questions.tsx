@@ -8,7 +8,7 @@ import {
   getQuestions,
   incrementScore,
   removeFirstQuestion,
-} from "src/features/slices/gameSlice";
+} from "src/app/gameSlice";
 import { Loading } from "src/models/Loading";
 import SelectOption from "src/shared-components/SelectOption";
 

@@ -1,7 +1,7 @@
 import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";
 import logger from "redux-logger";
-import gameReducer from "src/features/slices/gameSlice";
-import messageReducer from "src/features/slices/messageSlice";
+import gameReducer from "src/app/gameSlice";
+import messageReducer from "src/app/messageSlice";
 
 export const store = configureStore({
   reducer: {

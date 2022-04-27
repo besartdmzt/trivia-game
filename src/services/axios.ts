@@ -1,6 +1,6 @@
 import { store } from "../app/store";
 import axios from "axios";
-import { openMessage } from "src/features/slices/messageSlice";
+import { openMessage } from "src/app/messageSlice";
 import I18n from "src/i18n/i18n";
 
 const baseURL = "https://opentdb.com/api.php";

@@ -8,7 +8,7 @@ import {
 } from "@mui/material";
 import { useDispatch, useSelector } from "react-redux";
 import { RootState } from "src/app/store";
-import { closeMessage } from "src/features/slices/messageSlice";
+import { closeMessage } from "src/app/messageSlice";
 
 const AlertMessage = () => {
   const dispatch = useDispatch();
